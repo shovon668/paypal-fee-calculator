@@ -9,7 +9,7 @@ html {
 }
 
 .bgimg {
-    background-image: url('/images/bg.jpg');
+    background-image: url('paypal-fee-calculator/images/bg.jpg');
     min-height: 100%;
     background-position: center;
     background-size: cover;
