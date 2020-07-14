@@ -1,2 +1,1 @@
-# paypal-fee-calculator
-Quickly find out fees when sending or receiving money through PayPal (WIP)
+Maintenance Page for Paypal Fee Calculator
